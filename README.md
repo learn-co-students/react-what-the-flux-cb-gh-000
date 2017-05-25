@@ -10,7 +10,7 @@
 
 Introduce students to the basics of Flux. We can lean on the "official" Facebook
 implementation (even though it's a little wonky at times), since that's what
-students will use for their first pass at building a flux-based app in this
+students will use for their first pass at building a flux-based ap p in this
 unit.
 
 The main thing that students will need is a walkthrough of how components lead
