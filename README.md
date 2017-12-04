@@ -14,7 +14,7 @@ students will use for their first pass at building a flux-based app in this
 unit.
 
 The main thing that students will need is a walkthrough of how components lead
-to actions lead to stores lead to components. The dispatcher is essential (and
+to actions lead to store s lead to components. The dispatcher is essential (and
 confusing, it turns out), so feel free to dwell on that a bit.
 
 ## Resources
