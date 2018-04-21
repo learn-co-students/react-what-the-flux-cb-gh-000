@@ -17,6 +17,7 @@ The main thing that students will need is a walkthrough of how components lead
 to actions lead to stores lead to components. The dispatcher is essential (and
 confusing, it turns out), so feel free to dwell on that a bit.
 
+# Well this was useless
 ## Resources
 
 - [Flux: Overview](https://facebook.github.io/flux/docs/overview.html#content)
